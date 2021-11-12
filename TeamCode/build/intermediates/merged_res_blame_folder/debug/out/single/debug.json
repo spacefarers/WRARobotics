@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/michael/Documents/FTC/TeamCode/build/intermediates/merged_res/debug/raw_readme.md.flat",
+        "source": "/Users/michael/Documents/FTC/TeamCode/src/main/res/raw/readme.md"
+    },
+    {
+        "merged": "/Users/michael/Documents/FTC/TeamCode/build/intermediates/merged_res/debug/xml_teamwebcamcalibrations.xml.flat",
+        "source": "/Users/michael/Documents/FTC/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
+    }
+]
